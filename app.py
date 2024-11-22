@@ -38,7 +38,7 @@ def main():
     st.subheader('This application will give the status of a country based on socio-economic factors')
     ch_mort=st.text_input('Enter the child mortality rate:')
     exp=st.text_input('Enter Exports (% GDP):')
-    imp=st.text_input('Enter Exports (% GDP):')
+    imp=st.text_input('Enter imports (% GDP):')
     hel=st.text_input('Enter expenditure on health(% GDP):')
     inc=st.text_input('Enter average income: ')
     inf=st.text_input('Enter Inflation:')
