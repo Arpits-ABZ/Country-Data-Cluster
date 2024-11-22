@@ -13,7 +13,7 @@ with open('final_model.pkl','rb') as file:
 with open('pca.pkl','rb') as file:
     pca=pickle.load(file)
 
-with open('scalar.pkl'','rb') as file:
+with open('scalar.pkl','rb') as file:
     scaler=pickle.load(file)
 
 
